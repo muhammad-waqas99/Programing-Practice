@@ -5,7 +5,7 @@ int main(){
    int n , m ;
    cout<<"Enter the number of rows :";
    cin>>n;
-   cout<<"Enter the number of coloums :";
+   cout<<"Enter the number of columns :";
    cin>>m;
 
 
