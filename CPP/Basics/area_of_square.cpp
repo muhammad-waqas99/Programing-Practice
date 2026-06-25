@@ -2,11 +2,11 @@
 using namespace std;
 int main(){
 
-   float a , area ;
-   cout<<"Enter the length of Square : ";
-   cin>>a;
+   float side , area ;
+   cout<<"Enter the side of Square : ";
+   cin>>side;
 
-   area=a*a;
+   area=side*side;
   
 
    cout<<"The Area of Square is : "<<area;
