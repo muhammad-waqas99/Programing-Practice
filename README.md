@@ -24,7 +24,7 @@ This repository contains exercises focused on **logic building, problem-solving,
 
 ## Repository Structure
 
-
+```text
 Programming-Practice
 │
 ├── Basics
@@ -40,6 +40,7 @@ Programming-Practice
 ├── Recursion
 │
 └── Pointers
+```
 
 
 ---
