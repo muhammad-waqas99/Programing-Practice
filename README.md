@@ -27,6 +27,8 @@ This repository contains exercises focused on **logic building, problem-solving,
 ```text
 Programming-Practice
 │
+├── Arrays
+|
 ├── Basics
 │
 ├── Conditions
